@@ -1,121 +1,118 @@
+<!-- CYBERPUNK PROFILE HEADER -->
 <p align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=600&color=00E7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Anay!;AI+Developer;Backend+Engineer;RAG+%26+Multimodal+Systems+Builder;Always+Learning%2C+Always+Building.)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=ANAY+P.;AI+DEVELOPER+⚡+BACKEND+ENGINEER;RAG+%7C+MULTIMODAL+SYSTEMS+%7C+LLMs;WELCOME+TO+MY+NEON+SPACE." />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anaypandey1504">
-    <img src="https://img.shields.io/badge/GitHub-anaypandey1504-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/anaykumar-pandey">
-    <img src="https://img.shields.io/badge/LinkedIn-Anay%20Pandey-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:anaypandey1504@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://img.shields.io/badge/Code-Cyberpunk%20Mode-ff00ff?style=for-the-badge&logo=hackaday&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Engineer-00eaff?style=for-the-badge&logo=ethereum&logoColor=white">
+  <img src="https://img.shields.io/badge/Backend-Developer-8a2be2?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
 ---
 
-## 🚀 About Me  
-I'm an **AI Engineer & Backend Developer** passionate about building **production-grade RAG systems**, multimodal LLM pipelines, and high-performance backend architectures.
+## 🌐 **About Me — Enter the Grid**
+I am **Anay**, an **AI Developer & Backend Engineer** building **production-grade RAG systems**, **multimodal LLM pipelines**, and **high-performance distributed backends**.
 
-Currently working as an **AI Developer Intern at Wiyse AI**, where I build real-world GenAI automation systems, intelligent API workflows, and scalable backend logic.
+Currently decoding reality as an **AI Developer Intern @ Wiyse AI**, crafting automation workflows powered by LLM orchestration, embeddings, and vector intelligence.
 
-Previously contributed to AI systems impacting **600+ active users**, improving retrieval precision, latency, and reliability.
-
----
-
-## 🔥 Current Roles
-
-### 🧑‍💻 AI Developer Intern — Wiyse AI  
-- Designing GenAI pipelines & document-intelligence automations  
-- Integrating ChatGPT & multimodal models via API  
-- Building backend logic for production AI features  
-
-### ⚙️ GenAI Backend Intern — FutureSmart AI  
-- Built async multimodal RAG pipelines (**⚡ 40% lower latency**)  
-- Improved retrieval precision (**+28%**)  
-- Designed distributed vector indexing + CI/CD evaluation loops  
+Previously engineered AI infrastructure serving **600+ active users**, enhancing latency, retrieval precision, and system reliability across the board.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 **Current Roles (Neon-Active)**
 
-### 💻 Languages  
+### 🧑‍💻 **AI Developer Intern — Wiyse AI**
+- Architecting GenAI pipelines  
+- API-based multimodal intelligence  
+- Backend engineering in neon mode  
+
+### ⚙️ **GenAI Backend Intern — FutureSmart AI**
+- Async multimodal RAG pipelines → **⚡ 40% faster**  
+- Retrieval precision boosted → **+28%**  
+- Designed distributed vector indexing + CI/CD loops  
+
+---
+
+## 🔥 **Tech Stack — Weapons of the Cyber Realm**
+
+### 💻 **Core Languages**
 `Python` • `JavaScript` • `TypeScript` • `C++` • `SQL`
 
-### 🧠 AI & LLMs  
-`LangChain` • `OpenAI` • `Gemini` • `FAISS` • `Qdrant` • `Pinecone`  
-`OCR Pipelines` • `RAG Pipelines` • `Multimodal Models`
+### 🧠 **AI / LLM Arsenal**
+`LangChain` • `OpenAI` • `Gemini`  
+`FAISS` • `Qdrant` • `Pinecone`  
+`OCR Pipelines` • `Multimodal Models`  
+`RAG Systems` • `Vector Search`
 
-### 🔧 Backend  
-`FastAPI` • `Node.js` • `Express` • `PostgreSQL` • `MongoDB`
+### ⚡ **Backend Engineering**
+`FastAPI` • `Node.js` • `Express`  
+`PostgreSQL` • `MongoDB`
 
-### 🎨 Frontend  
+### 🎨 **Frontend (Holo UI)**
 `React` • `Next.js` • `Tailwind` • `Redux Toolkit`
 
-### 🚀 DevOps  
-`Docker` • `GitHub Actions` • `Render` • `Vercel` • `Postman` • `Figma`
+### 🚀 **DevOps (Neon Utilities)**
+`Docker` • `GitHub Actions` • `Render`  
+`Vercel` • `Postman` • `Figma`
 
 ---
 
-## 🌈 Highlighted Projects
+## 🛰️ **Highlighted Projects — From the Neon Archives**
 
-### 🔍 Multimodal RAG System  
-- Hybrid FAISS + OCR retrieval → **42% precision boost**  
-- Async embeddings → **25% faster throughput**
+### 🔍 **Multimodal RAG System**
+- Hybrid FAISS + OCR → **42% retrieval precision boost**  
+- Async embedding pipelines → **25% faster throughput**
 
-### 📄 LLM Semantic Query Engine  
-- Sub-2s response time for PDF QA  
-- Adaptive retrieval → **35% accuracy improvement**
+### 📄 **LLM Semantic Query Engine**
+- Sub-2s PDF QA  
+- Adaptive retrieval → **35% accuracy gain**
 
-### 🧩 UINest SaaS Platform  
-- API throughput + **30%**  
-- JWT, RBAC, zero-downtime CI/CD  
+### 👁️ **UINest SaaS Platform**
+- API throughput optimized **+30%**  
+- Zero-downtime CI/CD with RBAC & JWT  
 
 ---
 
-## 🔬 Research & Academic Work
+## 🧬 **Research & Academic Work**
 
-### 🧠 EEG-Based Emotion Recognition  
+### 🧠 **EEG Emotion Recognition**
 - BCICIV_2a dataset  
 - 14+ R visualizations  
-- Emotion classification pipeline  
+- Emotion prediction engine  
 
-### 🛰️ SDWSN Routing Simulator  
-- Full WSN simulator in Python  
-- HEED, LEACH, GUI, energy models  
-- Arduino + Tinkercad integration  
+### 🛰️ **SDWSN Routing Simulator**
+- Full WSN simulator (Python)  
+- HEED + LEACH + GUI + energy models  
+- Arduino + Tinkercad hardware simulation  
 
-### 🔐 Secure Electronic Voting (SSL/TLS)  
-- 3-Certificate Authority architecture  
+### 🔐 **Secure Electronic Voting (SSL/TLS)**
+- 3-CA infrastructure  
 - Full handshake protocol  
 
-### 📡 RAN Slicing (O-RAN)  
-- DRL-controlled network slicing  
+### 📡 **RAN Slicing (O-RAN)**
+- DRL-based network slicing  
 - WSL-friendly deployment workflow  
 
 ---
 
-## 🏆 Achievements  
-🥇 1st Place — Scenario Showdown, IIITV-ICD TechFest  
+## 🏆 **Achievements — Verified in the Neon Ledger**
+🥇 1st Place — Scenario Showdown, IIITV-ICD Horizon TechFest  
 🥈 2nd Place — AI Demos Hackathon (1,022 votes)  
 🎓 IIT Roorkee PGCert — Data Science & AI  
-🟩 NVIDIA DLI — Fundamentals of Deep Learning  
+🟩 NVIDIA DLI — Deep Learning Fundamentals  
 
 ---
 
-## 🌱 Currently Learning  
-- Distributed RAG at scale  
+## 🌱 **Currently Uplinking Knowledge**
+- Distributed RAG  
 - Multimodal LLM architectures  
-- DRL for network optimization  
+- DRL for RAN slicing  
 - CUDA & performance engineering  
 
 ---
 
-## 🤝 Let’s Connect  
+## 🔌 **Connect to the Network**
 📍 Mumbai, India  
 📧 **anaypandey1504@gmail.com**  
 🔗 **linkedin.com/in/anaykumar-pandey**  
@@ -123,13 +120,20 @@ Previously contributed to AI systems impacting **600+ active users**, improving 
 
 ---
 
-## 📊 GitHub Stats  
+## ⚡ **Cyberpunk GitHub Stats (Neon UI)**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anaypandey1504&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaypandey1504&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anaypandey1504&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaypandey1504&layout=compact&theme=radical&title_color=00eaff&text_color=c9d1d9&bg_color=000000" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=anaypandey1504&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=anaypandey1504&theme=radical&ring=ff00ff&fire=ff00ff&currStreakNum=00eaff&sideLabels=00eaff&dates=c9d1d9&background=000000" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online%20in%20the%20Neon%20Grid-00eaff?style=for-the-badge&logo=curl&logoColor=white">
+</p>
+
