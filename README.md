@@ -1,139 +1,136 @@
-<!-- CYBERPUNK PROFILE HEADER -->
+<!-- ===================== SYSTEMS-FIRST AI ENGINEER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=ANAY+P.;AI+DEVELOPER+⚡+BACKEND+ENGINEER;RAG+%7C+MULTIMODAL+SYSTEMS+%7C+LLMs;WELCOME+TO+MY+NEON+SPACE." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2800&pause=600&color=0AEFFF&center=true&vCenter=true&width=820&lines=Anay+Pandey;AI+Engineer+%7C+GenAI+Backend;Production+RAG+%7C+Multimodal+Systems;I+build+AI+that+ships." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Cyberpunk%20Mode-ff00ff?style=for-the-badge&logo=hackaday&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-Engineer-00eaff?style=for-the-badge&logo=ethereum&logoColor=white">
-  <img src="https://img.shields.io/badge/Backend-Developer-8a2be2?style=for-the-badge&logo=node.js&logoColor=white">
+  <a href="https://anaypandey.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-anaypandey.vercel.app-0AEFFF?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/anaypandey1504">
+    <img src="https://img.shields.io/badge/GitHub-Systems%20Builder-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/anaykumar-pandey">
+    <img src="https://img.shields.io/badge/LinkedIn-Anay%20Pandey-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 🌐 **About Me — Enter the Grid**
-I am **Anay**, an **AI Developer & Backend Engineer** building **production-grade RAG systems**, **multimodal LLM pipelines**, and **high-performance distributed backends**.
+## 👋 About Me
+I’m **Anay**, an **AI Engineer focused on GenAI backends and system design**.
 
-Currently decoding reality as an **AI Developer Intern @ Wiyse AI**, crafting automation workflows powered by LLM orchestration, embeddings, and vector intelligence.
+I don’t just prompt models — I **design, evaluate, deploy, and scale** AI systems that solve real problems. My work spans **retrieval-augmented generation**, **multimodal pipelines**, and **high-throughput backend services**.
 
-Previously engineered AI infrastructure serving **600+ active users**, enhancing latency, retrieval precision, and system reliability across the board.
+- 🎓 B.Tech CSE @ **IIIT Vadodara – ICD (2022–2026)**
+- ⚡ AI Developer @ **Wiyse AI**
+- 🧠 Previously GenAI Backend Intern @ **FutureSmart AI**
 
----
-
-## 🚀 **Current Roles (Neon-Active)**
-
-### 🧑‍💻 **AI Developer Intern — Wiyse AI**
-- Architecting GenAI pipelines  
-- API-based multimodal intelligence  
-- Backend engineering in neon mode  
-
-### ⚙️ **GenAI Backend Intern — FutureSmart AI**
-- Async multimodal RAG pipelines → **⚡ 40% faster**  
-- Retrieval precision boosted → **+28%**  
-- Designed distributed vector indexing + CI/CD loops  
+👉 Portfolio: **https://anaypandey.vercel.app**
 
 ---
 
-## 🔥 **Tech Stack — Weapons of the Cyber Realm**
-
-### 💻 **Core Languages**
-`Python` • `JavaScript` • `TypeScript` • `C++` • `SQL`
-
-### 🧠 **AI / LLM Arsenal**
-`LangChain` • `OpenAI` • `Gemini`  
-`FAISS` • `Qdrant` • `Pinecone`  
-`OCR Pipelines` • `Multimodal Models`  
-`RAG Systems` • `Vector Search`
-
-### ⚡ **Backend Engineering**
-`FastAPI` • `Node.js` • `Express`  
-`PostgreSQL` • `MongoDB`
-
-### 🎨 **Frontend (Holo UI)**
-`React` • `Next.js` • `Tailwind` • `Redux Toolkit`
-
-### 🚀 **DevOps (Neon Utilities)**
-`Docker` • `GitHub Actions` • `Render`  
-`Vercel` • `Postman` • `Figma`
+## 🧠 What I Actually Work On
+- Designing **production RAG architectures** (not toy demos)
+- Multimodal ingestion: **PDFs, images, scanned + handwritten docs**
+- Evaluation loops, hybrid scoring, latency & retrieval tuning
+- Async APIs and backend services for AI workloads
 
 ---
 
-## 🛰️ **Highlighted Projects — From the Neon Archives**
+## 💼 Experience
+
+### AI Developer — **Wiyse AI** _(Dec 2025 – Present)_
+- Building **GenAI solutions** with retrieval pipelines and agentic workflows
+- Implementing preprocessing, evaluation, and deployment pipelines
+- Shipping scalable, client-facing AI features with engineering & product teams
+
+### GenAI Backend Intern — **FutureSmart AI** _(Oct 2025 – Dec 2025)_
+- Migrated vector store from **ChromaDB → Qdrant**, improving stability & search efficiency
+- Built backend modules for **WorkLog App** (auth + API workflows)
+- Engineered async RAG pipelines → **40% lower latency**
+- Improved retrieval precision by **28% across 600+ sessions**
+- Designed distributed vector indexing & embedding services
+
+### Software Engineering Intern — **BRDS AI (USA)** _(Oct 2025 – Dec 2025)_
+- Built **iPatronus**, a real-time teleconsultation platform (WebSockets + Daily API)
+- Designed multimodal document pipeline (Vision LLM + OCR)
+- Generated structured clinical summaries using **Haystack RAG**
+
+---
+
+## 🛠️ Core Tech Stack
+
+**Languages**  
+`Python` · `TypeScript` · `JavaScript` · `C++` · `SQL`
+
+**GenAI / LLM Systems**  
+`RAG` · `LangChain` · `Agents` · `AST Parsing` · `OCR` · `Embeddings`
+
+**Vector Databases**  
+`Qdrant` · `FAISS` · `Pinecone`
+
+**Backend & APIs**  
+`FastAPI` · `Node.js` · `Express` · `REST` · `WebSockets` · `Async Microservices`
+
+**Frontend (supporting role)**  
+`React` · `Next.js` · `Tailwind CSS`
+
+**DevOps**  
+`Docker` · `GitHub Actions` · `Vercel` · `Render` · `Railway`
+
+---
+
+## 🚀 Selected Projects
+
+### 🧩 **CodeSage — Codebase Q&A with Source-Grounded RAG**
+- Repo-level RAG using **AST parsing + dependency graphs**
+- Natural language queries grounded to **exact files & line numbers**
+- Hybrid semantic + structural retrieval
+
+### 🕸️ **Clooney — Web App Cloning Agent**
+- Agentic system to replicate UI, routing & APIs of target apps
+- Automated DOM extraction, component mapping & code generation
+- Feedback loops to improve UI + logic fidelity
 
 ### 🔍 **Multimodal RAG System**
-- Hybrid FAISS + OCR → **42% retrieval precision boost**  
-- Async embedding pipelines → **25% faster throughput**
+- Hybrid FAISS embeddings + OCR preprocessing → **+42% precision**
+- Batched async pipelines → **25% faster embeddings**
+- Supports text, scanned docs & images
 
 ### 📄 **LLM Semantic Query Engine**
-- Sub-2s PDF QA  
-- Adaptive retrieval → **35% accuracy gain**
-
-### 👁️ **UINest SaaS Platform**
-- API throughput optimized **+30%**  
-- Zero-downtime CI/CD with RBAC & JWT  
+- Sub-2s PDF Q&A for 50+ users
+- Adaptive chunking & retrieval tuning → **+35% accuracy**
+- Incremental ingestion without full reindexing
 
 ---
 
-## 🧬 **Research & Academic Work**
-
-### 🧠 **EEG Emotion Recognition**
-- BCICIV_2a dataset  
-- 14+ R visualizations  
-- Emotion prediction engine  
-
-### 🛰️ **SDWSN Routing Simulator**
-- Full WSN simulator (Python)  
-- HEED + LEACH + GUI + energy models  
-- Arduino + Tinkercad hardware simulation  
-
-### 🔐 **Secure Electronic Voting (SSL/TLS)**
-- 3-CA infrastructure  
-- Full handshake protocol  
-
-### 📡 **RAN Slicing (O-RAN)**
-- DRL-based network slicing  
-- WSL-friendly deployment workflow  
+## 🧪 Research & Systems Work
+- **EEG Emotion Recognition** (BCICIV_2a dataset, 14+ R visualizations)
+- **Software-Defined WSN Simulator** (HEED, LEACH, GUI, energy models)
+- **Secure Electronic Voting System** (SSL/TLS, 3 CA infrastructure)
+- **O-RAN DRL-based RAN Slicing** (WSL-friendly deployment)
 
 ---
 
-## 🏆 **Achievements — Verified in the Neon Ledger**
-🥇 1st Place — Scenario Showdown, IIITV-ICD Horizon TechFest  
-🥈 2nd Place — AI Demos Hackathon (1,022 votes)  
-🎓 IIT Roorkee PGCert — Data Science & AI  
-🟩 NVIDIA DLI — Deep Learning Fundamentals  
+## 🌱 Currently Learning
+- Distributed & graph-based RAG
+- Multimodal evaluation strategies
+- DRL for networking & infra systems
+- Performance engineering (CUDA, batching, async)
 
 ---
 
-## 🌱 **Currently Uplinking Knowledge**
-- Distributed RAG  
-- Multimodal LLM architectures  
-- DRL for RAN slicing  
-- CUDA & performance engineering  
-
----
-
-## 🔌 **Connect to the Network**
+## 📫 Reach Me
 📍 Mumbai, India  
 📧 **anaypandey1504@gmail.com**  
-🔗 **linkedin.com/in/anaykumar-pandey**  
-🐙 **github.com/anaypandey1504**
-
----
-
-## ⚡ **Cyberpunk GitHub Stats (Neon UI)**
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anaypandey1504&show_icons=true&theme=radical&title_color=ff00ff&icon_color=00eaff&text_color=c9d1d9&bg_color=000000" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaypandey1504&layout=compact&theme=radical&title_color=00eaff&text_color=c9d1d9&bg_color=000000" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=anaypandey1504&theme=radical&ring=ff00ff&fire=ff00ff&currStreakNum=00eaff&sideLabels=00eaff&dates=c9d1d9&background=000000" />
-</p>
+🌐 **https://anaypandey.vercel.app**  
+🐙 **https://github.com/anaypandey1504**
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online%20in%20the%20Neon%20Grid-00eaff?style=for-the-badge&logo=curl&logoColor=white">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaypandey1504&show_icons=true&theme=transparent" />
 </p>
 
+<p align="center"><i>“I care about systems that work — not demos that just look good.”</i></p>
