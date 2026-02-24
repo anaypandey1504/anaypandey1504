@@ -23,7 +23,7 @@ I’m **Anay**, an **AI Engineer focused on GenAI backends and system design**.
 I don’t just prompt models — I **design, evaluate, deploy, and scale** AI systems that solve real problems. My work spans **retrieval-augmented generation**, **multimodal pipelines**, and **high-throughput backend services**.
 
 - 🎓 B.Tech CSE @ **IIIT Vadodara – ICD (2022–2026)**
-- ⚡ AI Developer @ **Wiyse AI**
+- ⚡ AI Intern @ **Redblox.io**
 - 🧠 Previously GenAI Backend Intern @ **FutureSmart AI**
 
 👉 Portfolio: **https://anaypandey.vercel.app**
@@ -38,12 +38,7 @@ I don’t just prompt models — I **design, evaluate, deploy, and scale** AI sy
 
 ---
 
-## 💼 Experience
-
-### AI Developer — **Wiyse AI** _(Dec 2025 – Present)_
-- Building **GenAI solutions** with retrieval pipelines and agentic workflows
-- Implementing preprocessing, evaluation, and deployment pipelines
-- Shipping scalable, client-facing AI features with engineering & product teams
+## 💼 Pervious Experience
 
 ### GenAI Backend Intern — **FutureSmart AI** _(Oct 2025 – Dec 2025)_
 - Migrated vector store from **ChromaDB → Qdrant**, improving stability & search efficiency
